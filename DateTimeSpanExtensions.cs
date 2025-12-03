@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace MadSciebce_DateTimeSpanExtensions
+namespace MadScience_DateTimeSpanExtensions
 {
     public static class DateTimeSpanExtensions
     {
